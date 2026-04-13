@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+#webchat {
+  margin-top: 16px;
+  min-height: 400px;
+  border: 1px solid #cccccc;
+  padding: 16px;
+  background: #fafafa;
+}
